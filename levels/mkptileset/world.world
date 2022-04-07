@@ -13,6 +13,13 @@
 			<entry key="group_state" type="string" value="besiege"/>
 		</entry>
 	</entry>
+	<entry key="camera_bookmarks" type="table">
+		<entry key="default" type="string" value="mkp_default"/>
+		<entry key="mkp_default" type="table">
+			<entry key="position" type="vector3" value="262.261 -1021.26 508.216"/>
+			<entry key="rotation" type="quaternion" value="0.138177 -0.0227511 0.160864 -0.976992"/>
+		</entry>
+	</entry>
 	<entry key="environment" type="table">
 		<entry key="cubemap_gizmos" type="table">
 		</entry>
